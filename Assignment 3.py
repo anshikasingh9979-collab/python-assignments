@@ -18,6 +18,6 @@ class student ():
             print("CGPA is :",self.c)
         else:
             print("INVALID USERNAME AND PASSWORD")
-stu1=student("GANESH BHONG",33,8.5,9.5)
+stu1=student("Anshika Singh",33,8.5,9.5)
 stu1.calculate()
 stu1.student_info()
